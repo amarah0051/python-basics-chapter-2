@@ -1,4 +1,4 @@
-#strings in python are written by '' , "" , ''' '''
+#strings in python are written by '' , " " , ''' '''
 #adding 2 strings together is contatenation 
 
 # str1 = "hello"
